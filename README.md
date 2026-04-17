@@ -2,6 +2,8 @@
 
 A comprehensive Java-based desktop application for managing food delivery operations. This system simulates a real-world food delivery platform similar to Swiggy or Zomato, with support for customers, restaurants, delivery agents, and administrators.
 
+**GitHub Repository**: [https://github.com/atabhishekx/dbms_mini](https://github.com/atabhishekx/dbms_mini)
+
 ---
 
 ## 📋 Table of Contents
